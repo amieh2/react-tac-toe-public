@@ -14,16 +14,16 @@ The below questions should be answered (in detail!) regarding your submission!
 
 
 ##### 3. What online resources did you find to help you learn React? How do you search for resources, and how did you determine whether they were helpful or not? Think back to the "learning an API" paper! 
-> Answer goes here!
+> I googled React.js to find resources on how to learn React. I mainly used stack overflow as a resource because it has example of code written which is easier for me to learn and follow from. Having these written examples were helpful when working on the assignment.
 
 
 ##### 4. Approximately how many hours did it take you to complete this assignment? #####
-> Answer goes here!
+> This assignment took me around 15 hours to complete.
 
 
 ##### 5. Did you receive help from any other sources (classmates, etc)? If so, please list who (be specific!). #####
-> Answer goes here!
+> I didnt recieve any help from classmates but I received help from a javascript tutor on this assignment because I was having difficulties getting started. 
 
 
 ##### 6. Did you encounter any problems in this assignment we should warn students about in the future? How can we make the assignment better? #####
-> Answer goes here!
+> I found the React library difficult to learn, I would recommend more time reveiwing the library in class before giving out the assignmnet. 
