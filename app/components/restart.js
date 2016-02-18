@@ -1,5 +1,6 @@
 var React = require('react');
 
+//Resets the game state
 var Title = React.createClass({
     render: function () {
         if(this.props.isFinished !== "") {

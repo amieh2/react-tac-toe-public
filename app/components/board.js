@@ -1,5 +1,6 @@
 var React = require('react');
 
+//Creates the game board
 var Board = React.createClass({
     getController: function() {
         return this.props.controller();

@@ -7,6 +7,7 @@ var TicTacToeController = require('.././controllers/tictactoe');
 var Restart = require('./restart');
 var constants = require('.././constants');
 
+//Creates a new board with the matrix size
 var Application = React.createClass({
     getInitialState: function () {
         return {
